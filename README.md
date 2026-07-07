@@ -64,6 +64,11 @@ Select the required option from the menu to perform the desired Linux administra
 - Send alerts when disk usage exceeds a threshold.
 - Add Docker support for easier deployment.
 
+##Screenshots
+
+archive_logs.png  disk_check.png  report.png
+backup.png        menu.png        user_creation.png
+
 ## Author
 
 **Prachi Lawand**
