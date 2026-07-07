@@ -68,11 +68,11 @@ Select the required option from the menu to perform the desired Linux administra
 
 ### Main Menu
 
-![Main Menu](images/exitPage.png)
+![Main Menu](images/menu.png)
 
 ### User Creation
 
-![User Creation](images/creation user.png)
+![User Creation](images/user_creation.png)
 
 ### Backup Files
 
@@ -80,11 +80,11 @@ Select the required option from the menu to perform the desired Linux administra
 
 ### Disk Usage Check
 
-![Disk Usage Check](images/diskStatus.png)
+![Disk Usage Check](images/disk_check.png)
 
 ### Archive Logs
 
-![Archive Logs](images/ArchiveLogs.png)
+![Archive Logs](images/archive_logs.png)
 
 ### System Health Report
 
