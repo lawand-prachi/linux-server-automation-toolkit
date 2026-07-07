@@ -18,12 +18,12 @@ do
     read -p "Enter your choice: " choice
 
     case $choice in
-        1) ./create_user.sh ;;
-        2) ./backup.sh ;;
-        3) ./monitor.sh ;;
-        4) ./disk_check.sh ;;
-        5) ./archive_logs.sh ;;
-        6) ./system_report.sh ;;
+        1) ./scripts/create_user.sh ;;
+	2) ./scripts/backup.sh ;;
+	3) ./scripts/monitor.sh ;;
+	4) ./scripts/disk_check.sh ;;
+	5) ./scripts/archive_logs.sh ;;
+	6) ./scripts/system_report.sh ;;
         7)
             echo "Thank you for using Linux Server Automation Toolkit!"
             exit 0
